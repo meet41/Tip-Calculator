@@ -68,8 +68,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [solution URL here](https://github.com/meet41)
-- Live Site URL: [live site URL here](https://meet41.github.com/tip-calculator/)
+- Solution URL: [solution URL here](https://github.com/meet41/Tip-calculator/)
+- Live Site URL: [live site URL here](https://meet41.github.io/Tip-calculator/)
 
 ## My process
 
